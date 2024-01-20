@@ -8,4 +8,5 @@ int main()
 	int a=3;
 	printf("hello");
 	hello(a);
+	
 }
