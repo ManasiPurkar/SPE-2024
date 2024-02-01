@@ -18,7 +18,7 @@ pipeline {
 
         stage('Test') {
             steps {
-                echo "Execute test commands or scripts"
+                eco "Execute test commands or scripts"
                 //sh 'your-test-command-or-script.sh'
             }
         }
